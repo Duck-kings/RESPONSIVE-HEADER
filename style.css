@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    background: #555;
+    overflow: hidden;
+}
+nav a {
+    width: 20%;
+    color: #fff;
+    font-size: 36px;
+    float: left;
+    text-align: center;
+    padding: 15px 0;
+}
+nav a:hover{
+    background: #000;
+}
+.active{
+    background: green;
+}
